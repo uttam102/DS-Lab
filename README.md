@@ -1,10 +1,10 @@
-# 🚀 MScIT Data Structures & Algorithms (C)
+# 🚀 Data Structures & Algorithms (C)
 
 [![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://gcc.gnu.org/)
 [![Course](https://img.shields.io/badge/Course-MScIT-orange.svg)](https://github.com/uttam102)
 [![Status](https://img.shields.io/badge/Status-Completed-green.svg)]()
 
-A comprehensive collection of Data Structures and Algorithms implementations developed during the **MScIT Semester 1** laboratory coursework. This repository covers fundamental to advanced concepts in computer science using the C language.
+A comprehensive collection of Data Structures and Algorithms implementations developed during the laboratory coursework. This repository covers fundamental to advanced concepts in computer science using the C language.
 
 ---
 
