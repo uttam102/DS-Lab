@@ -1,0 +1,12 @@
+# C Binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# VS Code
+.vscode/
+
+# Build artifacts
+bin/
+build/

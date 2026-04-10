@@ -1,0 +1,38 @@
+#include <stdio.h>
+
+int main() {
+    int n, i, j, key;
+    printf("Enter number of elements: ");
+    scanf("%d", &n);
+
+    int arr[50];
+    printf("Enter %d integers:\n", n);
+    for(i = 0; i < n; i++) {
+        scanf("%d", &arr[i]);
+    }
+
+    printf("\nInsertion Sort Process:\n");
+    for(i = 1; i < n; i++) {
+        key = arr[i];
+        j = i - 1;
+
+        while(j >= 0 && arr[j] > key) {
+            arr[j + 1] = arr[j];
+            j--;
+        }
+        arr[j + 1] = key;
+
+        printf("After iteration %d: ", i);
+        for(int k = 0; k < n; k++) {
+            printf("%d ", arr[k]);
+        }
+        printf("\n");
+    }
+
+    printf("\nSorted Array: ");
+    for(i = 0; i < n; i++) {
+        printf("%d ", arr[i]);
+    }
+
+    return 0;
+}
