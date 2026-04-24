@@ -167,4 +167,4 @@ Welcome to the comprehensive repository for the **MScIT Semester 1 Data Structur
 Feel free to fork this project, improve the algorithms, or add documentation. Pull requests are always welcome!
 
 ---
-*Maintained by [Uttam Kalsariya](https://github.com/uttam102)*
+*Maintained by [Uttam Kalsariya](https://github.com/uttam-kalsariya)*
